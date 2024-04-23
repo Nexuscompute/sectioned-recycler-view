@@ -8,7 +8,7 @@ This library allows you to divide items in your RecyclerView into groups called 
 
 ## Demo
 
-![](https://thumbs.gfycat.com/FewDependableBassethound-size_restricted.gif)
+![](https://github.com/crux-lab/sectioned-recycler-view/blob/master/demo.gif)
 
 You can find demo project code [here](https://github.com/crux-lab/sectioned-recycler-view/tree/master/app/src/main/java/com/cruxlab/sectionedrecyclerview/demo). 
 
@@ -204,7 +204,7 @@ public class MySwipeCallback extends SectionItemSwipeCallback {
 
     private ColorDrawable background;
 
-    public DemoSwipeCallback() {
+    public MySwipeCallback() {
         this.background = new ColorDrawable();
     }
 
@@ -281,4 +281,4 @@ This project is licensed under the MIT License - see the LICENSE [file](https://
 
 Made with :heart: by Elizabeth Popova
 
-Contact me: elizaveta.popova@cruxlab.com
+Contact me: lizapopovakh+cruxlab@gmail.com
